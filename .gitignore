@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+CLEAN_DATASET/
+*.pth
+*.pt
+*.npy
+*.csv
+*.json
+*.png
+*.docx
+*.zip
